@@ -1,0 +1,38 @@
+<resources>
+  <string name="app_name">ReviewCustomView</string>
+
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+
+  <string name="draw_color">draw color</string>
+  <string name="draw_rgb">draw RGB</string>
+  <string name="draw_argb">draw ARGB</string>
+
+  <string name="draw_basic_shape">draw basic shape</string>
+  <string name="draw_point">draw point</string>
+  <string name="draw_line">draw line</string>
+  <string name="draw_rect">draw Rect</string>
+  <string name="draw_round_rect">draw Round Rect</string>
+  <string name="draw_oval">draw oval</string>
+  <string name="draw_circle">draw circle</string>
+  <string name="draw_arc">draw arc</string>
+
+  <string name="draw_image">draw image</string>
+  <string name="draw_bitmap">draw bitmap</string>
+  <string name="draw_picture">draw picture</string>
+
+  <string name="draw_text">draw text</string>
+
+  <string name="draw_path">draw path</string>
+
+  <string name="vertices_operations">vertices operations</string>
+  <string name="draw_vertices">draw Vertices</string>
+  <string name="draw_bitmap_mesh">draw Bitmap Mesh</string>
+
+  <string name="canvas_clip">Canvas Clip</string>
+  <string name="clip_path">clip path</string>
+  <string name="clip_rect">clip rect</string>
+  <string name="canvas_snapshot">canvas snapshot</string>
+  <string name="canvas_translate">canvas translate</string>
+  <string name="matrix">Matrix</string>
+</resources>
